@@ -4,3 +4,6 @@ artifacts/
 cache/
 deploy-and-update.sh
 package-lock.json
+.vercel
+vercel.json
+.vercel
